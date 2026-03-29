@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "mum-sale-backend/src/main/java/com/mumsale/backend",
+        "mum-sale-backend/src/main/java/com/mumsale/mum_sale_backend"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
